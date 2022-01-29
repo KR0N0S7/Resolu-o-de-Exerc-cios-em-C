@@ -1,2 +1,2 @@
-# Resolu-o-de-Exerc-cios-em-C
+# Resolucao-de-Exercicios-em-C
 Resolução de Exercícios em C
